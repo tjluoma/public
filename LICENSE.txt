@@ -1,3 +1,8 @@
+
+The following license shall apply to any file which does not have its own license.
+
+----------------------------------------------------------------------------------
+
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
