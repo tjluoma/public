@@ -1,5 +1,5 @@
 #!/usr/bin/env zsh -f
-# Purpose: use Unix tools to allow a file to be modified
+# Purpose: Set all the options to make a file changeable and/or deletable
 #
 # From:	Timothy J. Luoma
 # Mail:	luomat at gmail dot com
